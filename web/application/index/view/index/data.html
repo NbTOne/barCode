@@ -1,0 +1,20 @@
+{volist name='list' id='list'}
+<tr class="list">
+    <td>
+        <div class="layui-unselect layui-form-checkbox" lay-skin="primary" data-id='{$list.id}'><i class="layui-icon">&#xe605;</i></div>
+    </td>
+    <td onblur="up(this,'name','{$list.id}')" contenteditable="true">{$list.name}</td>
+    <td onblur="up(this,'type','{$list.id}')" contenteditable="true">{$list.type}</td>
+    <td onblur="up(this,'supplier','{$list.id}')" contenteditable="true">{$list.supplier}</td>
+    <td onblur="up(this,'vender','{$list.id}')" contenteditable="true">{$list.vender}</td>
+    <td onblur="up(this,'code','{$list.id}')" contenteditable="true">{$list.code}</td>
+    <td onblur="up(this,'number','{$list.id}')" contenteditable="true">{$list.number}</td>
+    <td onblur="up(this,'bid','{$list.id}')" contenteditable="true">{$list.bid}</td>
+    <td onblur="up(this,'price','{$list.id}')" contenteditable="true">{$list.price}</td>
+    <td onblur="up(this,'{$list.id}')" class="td-manage">
+        <a title="删除" onclick="member_del(this,'{$list.id}')" href="javascript:;">
+            <i class="layui-icon">&#xe640;</i>
+        </a>
+    </td>
+</tr>
+{/volist}

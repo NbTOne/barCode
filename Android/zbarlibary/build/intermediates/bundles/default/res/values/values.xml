@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_color">#ff5f00</color>
+    <declare-styleable name="CornerView"><attr format="color" name="corner_color"/><attr format="dimension" name="corner_width"/><attr format="enum" name="corner_gravity">
+            <enum name="leftBottom" value="1"/>
+            <enum name="rightBottom" value="3"/>
+            <enum name="leftTop" value="0"/>
+            <enum name="rightTop" value="2"/>
+        </attr></declare-styleable>
+    <string name="app_name">zBarLibary</string>
+    <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>

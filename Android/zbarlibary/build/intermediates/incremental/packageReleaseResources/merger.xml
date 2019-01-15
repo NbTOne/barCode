@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res"/><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\generated\res\rs\release"/><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res"><file name="dialog_pro_color" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\color\dialog_pro_color.xml" qualifiers="" type="color"/><file name="circle_trans_black" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\drawable\circle_trans_black.xml" qualifiers="" type="drawable"/><file name="shape_dialog_bg" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\drawable\shape_dialog_bg.xml" qualifiers="" type="drawable"/><file name="scanner_album" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\drawable-xhdpi\scanner_album.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scanner_back_img" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\drawable-xhdpi\scanner_back_img.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scanner_light" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\drawable-xhdpi\scanner_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="shadow" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\drawable-xhdpi\shadow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_qr" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\layout\activity_qr.xml" qualifiers="" type="layout"/><file name="dialog_loading" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\layout\dialog_loading.xml" qualifiers="" type="layout"/><file name="view_scan" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\layout\view_scan.xml" qualifiers="" type="layout"/><file name="qrcode" path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\raw\qrcode.mp3" qualifiers="" type="raw"/><file path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CornerView">
+        <attr format="color" name="corner_color"/>
+        <attr format="dimension" name="corner_width"/>
+        <attr format="enum" name="corner_gravity">
+            <enum name="leftBottom" value="1"/>
+            <enum name="rightBottom" value="3"/>
+            <enum name="leftTop" value="0"/>
+            <enum name="rightTop" value="2"/>
+        </attr>
+    </declare-styleable></file><file path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\values\colors.xml" qualifiers=""><color name="common_color">#ff5f00</color></file><file path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">zBarLibary</string></file><file path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\main\res\values\styles.xml" qualifiers=""><style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style></file></source><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\generated\res\rs\release"/><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CornerView"><attr format="color" name="corner_color"/><attr format="dimension" name="corner_width"/><attr format="enum" name="corner_gravity">
+            <enum name="leftBottom" value="1"/>
+            <enum name="rightBottom" value="3"/>
+            <enum name="leftTop" value="0"/>
+            <enum name="rightTop" value="2"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

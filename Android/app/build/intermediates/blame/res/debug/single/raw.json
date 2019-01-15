@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\le\\Downloads\\zBarLibary-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\qrcode.mp3",
+        "source": "C:\\Users\\le\\Downloads\\zBarLibary-master\\zbarlibary\\build\\intermediates\\bundles\\default\\res\\raw\\qrcode.mp3"
+    },
+    {
+        "merged": "C:\\Users\\le\\Downloads\\zBarLibary-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
+        "source": "C:\\Users\\le\\Downloads\\zBarLibary-master\\app\\src\\main\\res\\raw\\test.mp3"
+    }
+]

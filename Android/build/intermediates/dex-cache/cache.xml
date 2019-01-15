@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\6f2b07a022c5152e20cd3f61ac99326bfbadf53e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_8a64ebec22057ddb2a29d4bb155c6696ba7ee7f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\core-3.3.0_dad3b84872233325cbc4a2da7a71f2d3a4b5fff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_5a6b5e06fb90b05a0b4dd0560a0326c20ff0f1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\d03bfc9431e703db35faf3c7d9cd5a697e72e962\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_0130f1fc88269aab2d8397042a0f29b300254420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\f5748f771ec1c2b7df9e90237d0c29d7d3d5dfa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_f6a51a31fbd89c9d8c87590f29f7eb4fd5849237.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ad90b9653309f2f9448dc26a6fb7c3b1f93f262\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\9c45e8589a21e55a13b973d596de915dca87768a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_f24725d4bc86291f9bb65e5017ce9b95ffb5d444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\Downloads\zBarLibary-master\zbarlibary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e03c4bf2fe52917a6cf0553a3045b36f6a352373">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_81b7f9972b4000b8c4dbb06d7df7fa0437843bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\f61ddff018626ede41b20802303abedb611bc75a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_429911dc67deb10385a5310260cef10b3fe60161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\1046e441f90bd57f5680ea40271cad111a9d8778\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_d07e1b3e78a63d1a511ca407713143a46c460f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\92418c1d112902304bcc3fb7acc7bc5d4045314d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_604188c11d56a448d16b86120d611d3f6c4afc59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\2e38c08858cc76a752354b5fb27e75fb8bebc8e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_d481bcc2f319581d54ee244ad27a376a2e969be2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_ad885d9968531cd248ff7229237af431dbe89fed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4398862d1ac26c8290cb90615f8105d84387217f">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b1e3af4bb5ac5f6fc7977208e1986023449d4238\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\2e63df82ee0f2f1f5812d372cd60de6b0e907eed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_6a34c80495cfed7d934aaaa3b82c7f0d02ac34ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\le\.android\build-cache\bd05a0e8606cb7a59e4569e8576263e6bd8f6cc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\le\Downloads\zBarLibary-master\app\build\intermediates\pre-dexed\release\classes_d91a13e3b694527ed0b34218dc381e626ab9547a.jar" />
+    </item>
+
+</items>

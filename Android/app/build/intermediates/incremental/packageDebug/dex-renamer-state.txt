@@ -1,0 +1,7 @@
+#Wed Jun 20 21:58:03 CST 2018
+base.0=C\:\\Users\\le\\Downloads\\zBarLibary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1e3af4bb5ac5f6fc7977208e1986023449d4238
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\le\\Downloads\\zBarLibary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4ad90b9653309f2f9448dc26a6fb7c3b1f93f262\\classes.dex
+base.1=C\:\\Users\\le\\Downloads\\zBarLibary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4ad90b9653309f2f9448dc26a6fb7c3b1f93f262
+file.0=C\:\\Users\\le\\Downloads\\zBarLibary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1e3af4bb5ac5f6fc7977208e1986023449d4238\\classes.dex
